@@ -4,7 +4,7 @@
 
 I am a PhD student in Economics at Southern Illinois University Carbondale (SIUC), with interests in applied economic research, quantitative analysis, and evidence-based policy.
 
-My research interests span **Macroeconomics, International Economics, Development Economics, and Health Economics**, with particular interest in understanding how economic policies, institutions, international flows, and socioeconomic conditions affect economic and household outcomes.
+My research interests span Macroeconomics, International Economics, Development Economics, and Health Economics, with particular interest in understanding how economic policies, institutions, international flows, and socioeconomic conditions affect economic and household outcomes.
 
 I enjoy working with economic and real-world data to answer policy-relevant questions using econometric and data-analysis methods.
 
@@ -16,11 +16,8 @@ I enjoy working with economic and real-world data to answer policy-relevant ques
 - International Economics & International Finance
 - Development Economics
 - Health Economics
-- Economic Growth & Productivity
 - Applied Econometrics
 - Public Policy
-- International Capital & Resource Flows
-- Economic Development and Policy Evaluation
 
 ---
 
